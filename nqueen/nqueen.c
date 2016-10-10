@@ -4,10 +4,7 @@
  *
  *     10/10/2016 - 
  *
- *     <sagenyx@sagewicked.com>
  *
- *     Copyright (c) 2016 RedBack Networks, Inc.
- *     All rights reserved.
  *
  *---------------------------------------------------------------------------
  */
